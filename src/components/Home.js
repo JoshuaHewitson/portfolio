@@ -47,7 +47,7 @@ class Home extends Component {
       <Grid container justify='center' alignitems='center' style={{marginTop:'0px'}}>
         <Grid container justify='center' alignitems='center'>
           <div style={{}}>
-            <iframe src='http://localhost:8000/grayscott/index.html' style={{
+            <iframe src='http://18.220.213.216/grayscott/index.html' style={{
               width:`${this.props.windowWidth/18 *17}px`,
               height:`${this.props.windowHeight/40 *31}px`,
               border:'solid black 1px',
